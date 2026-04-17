@@ -1,4 +1,4 @@
-module github.com/tailscale/caddy-tailscale
+module github.com/BebopBamf/caddy-tailscale
 
 go 1.26.1
 
